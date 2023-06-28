@@ -8,7 +8,7 @@ I am a novice Back-end developer. My path to IT began with taking an online Pyth
 
 * 🌍  I'm based in Minsk
 * ✉️  You can contact me at [pkazachenkooo@gmail.com](mailto:pkazachenkooo@gmail.com)
-* 🧠  I'm learning Java Core
+* 🧠  I'm learning Java Syntax
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/mxrpheus6" target="_blank" rel="noreferrer"><img
