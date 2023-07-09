@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pavel Kazachenko
 ========================================================================================================================================
 
-Back-end developer
+Backend developer
 ------------------
 
 I am a novice Back-end developer. My path to IT began with taking an online Python course. After that I entered BSUIR where I studied the basics of the C language. At the moment I am sophomore and starting to study Java and C++
