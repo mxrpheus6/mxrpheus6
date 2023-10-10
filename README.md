@@ -27,9 +27,3 @@ src="https://img.shields.io/github/followers/mxrpheus6?logo=github&style=for-the
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/mxrpheus6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/hypnosss7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mxrpheus/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/mxrpheus6"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mxrpheus6&stroke=10b981&background=22272e&ring=f97316&fire=f97316&currStreakNum=10b981&currStreakLabel=f97316&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
-
-<a href="https://github.com/mxrpheus6" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrpheus6&langs_count=10&title_color=f97316&text_color=10b981&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
